@@ -54,11 +54,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PostService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\24hrSocial.Data\24hrSocial.Data.csproj">
+      <Project>{be2b15be-d749-44b1-ab9e-c78bcc1de8ca}</Project>
+      <Name>24hrSocial.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\24hrSocial.Models\24hrSocial.Models.csproj">
+      <Project>{1592d8a3-8786-4a4d-8970-020c558a513e}</Project>
+      <Name>24hrSocial.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

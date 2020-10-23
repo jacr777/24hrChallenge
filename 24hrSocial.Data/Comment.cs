@@ -8,5 +8,6 @@ namespace _24hrSocial.Data
 {
     public class Comment
     {
+
     }
 }

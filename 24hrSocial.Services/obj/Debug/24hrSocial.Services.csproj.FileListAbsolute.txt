@@ -4,3 +4,13 @@ C:\ElevenFiftyProjects\bluebadgeIntro\24hrSocial\24hrSocial.Services\obj\Debug\2
 C:\ElevenFiftyProjects\bluebadgeIntro\24hrSocial\24hrSocial.Services\obj\Debug\24hrSocial.Services.csproj.CoreCompileInputs.cache
 C:\ElevenFiftyProjects\bluebadgeIntro\24hrSocial\24hrSocial.Services\obj\Debug\24hrSocial.Services.dll
 C:\ElevenFiftyProjects\bluebadgeIntro\24hrSocial\24hrSocial.Services\obj\Debug\24hrSocial.Services.pdb
+C:\ElevenFiftyProjects\bluebadgeIntro\24hrSocial\24hrSocial.Services\bin\Debug\24hrSocial.Services.dll.config
+C:\ElevenFiftyProjects\bluebadgeIntro\24hrSocial\24hrSocial.Services\bin\Debug\EntityFramework.dll
+C:\ElevenFiftyProjects\bluebadgeIntro\24hrSocial\24hrSocial.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\ElevenFiftyProjects\bluebadgeIntro\24hrSocial\24hrSocial.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\ElevenFiftyProjects\bluebadgeIntro\24hrSocial\24hrSocial.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ElevenFiftyProjects\bluebadgeIntro\24hrSocial\24hrSocial.Services\bin\Debug\EntityFramework.xml
+C:\ElevenFiftyProjects\bluebadgeIntro\24hrSocial\24hrSocial.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\ElevenFiftyProjects\bluebadgeIntro\24hrSocial\24hrSocial.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\ElevenFiftyProjects\bluebadgeIntro\24hrSocial\24hrSocial.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\ElevenFiftyProjects\bluebadgeIntro\24hrSocial\24hrSocial.Services\obj\Debug\24hrSocial.Services.csproj.CopyComplete
