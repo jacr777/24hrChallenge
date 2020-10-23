@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\bluebadgeIntro\24hrSocial\24hrSocial.Services\bin\Debug\24hrSocial.Services.dll
+C:\ElevenFiftyProjects\bluebadgeIntro\24hrSocial\24hrSocial.Services\bin\Debug\24hrSocial.Services.pdb
+C:\ElevenFiftyProjects\bluebadgeIntro\24hrSocial\24hrSocial.Services\obj\Debug\24hrSocial.Services.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\bluebadgeIntro\24hrSocial\24hrSocial.Services\obj\Debug\24hrSocial.Services.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\bluebadgeIntro\24hrSocial\24hrSocial.Services\obj\Debug\24hrSocial.Services.dll
+C:\ElevenFiftyProjects\bluebadgeIntro\24hrSocial\24hrSocial.Services\obj\Debug\24hrSocial.Services.pdb

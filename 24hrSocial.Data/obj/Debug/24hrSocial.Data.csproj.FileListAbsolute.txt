@@ -1,0 +1,2 @@
+C:\ElevenFiftyProjects\bluebadgeIntro\24hrSocial\24hrSocial.Data\obj\Debug\24hrSocial.Data.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\bluebadgeIntro\24hrSocial\24hrSocial.Data\obj\Debug\24hrSocial.Data.csproj.CoreCompileInputs.cache
